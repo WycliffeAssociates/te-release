@@ -7,7 +7,7 @@
   "homepage": ".",
   "main": "src/start.js",
   "dependencies": {
-    "axios": "~0.16.2",
+    "axios": "~0.21.1",
     "babel-preset-stage-1": "~6.24.1",
     "classnames": "~2.2.5",
     "cross-env": "~5.0.1",
