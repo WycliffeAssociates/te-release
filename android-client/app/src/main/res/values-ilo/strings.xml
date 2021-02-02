@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTT Exchanger</string>
+    <string name="app_info">ver.1.1.8</string>
+    <string name="grant_permission">You need to grant Record Audio permission!</string>
+    <string name="error_occurred">An error occurred.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTT Exchanger Admin</string>
+    <string name="app_info">ver.1.2.1</string>
+    <string name="grant_permission">You have to grant write permission!</string>
+    <string name="error_occurred">An error occurred.</string>
+    <string name="saved_success">File has been successfully saved!</string>
+</resources>
