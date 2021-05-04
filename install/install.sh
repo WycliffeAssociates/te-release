@@ -53,7 +53,7 @@ sudo update-alternatives --install /usr/bin/pip pip /usr/bin/pip3 1
 curl -fsSL https://download.docker.com/linux/debian/gpg | sudo apt-key add -
 sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/debian $(lsb_release -cs) stable"
 sudo apt update && sudo apt install -y docker-ce
-sudo pip install docker-compose
+sudo pip install docker-compose==1.27
 sudo chmod -R +x /home/$USER/btt-exchanger/scripts
 
 echo -e "${COLOR}----------| Downloading clients |----------${NC}"
